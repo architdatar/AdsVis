@@ -1,0 +1,11 @@
+AFOVIB_fullCoRE Edges: 2631, Vertices: 234,     Beta index:  11.24
+GIYTIS_fullCoRE Edges: 10499, Vertices: 720,     Beta index:  14.58
+MIHBAG_fullCoRE Edges: 24041, Vertices: 1000,     Beta index:  24.04
+REFTUT_fullCoRE Edges: 21634, Vertices: 1000,     Beta index:  21.63
+NIKDAM_fullCoRE Edges: 3485, Vertices: 264,     Beta index:  13.20
+KULRIT_fullCoRE Edges: 22643, Vertices: 1000,     Beta index:  22.64
+PEJFOA_fullCoRE Edges: 22375, Vertices: 1000,     Beta index:  22.38
+MEXJAC_fullCoRE Edges: 3552, Vertices: 209,     Beta index:  17.00
+XIBZUF_fullCoRE Edges: 97, Vertices: 91,     Beta index:  1.07
+NUTQAV_fullCoRE Edges: 24493, Vertices: 1000,     Beta index:  24.49
+NUTQAV_fullCoRE Edges: 24493, Vertices: 1000,     Beta index:  24.49

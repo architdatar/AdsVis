@@ -1,0 +1,5 @@
+RDF creation: modify this code. 
+https://github.com/by256/rdfpy/blob/master/rdfpy/rdfpy.py
+
+RASPA implementation:
+sample.c file, line 644-660. seems to be non-vectorized algorithm. 
